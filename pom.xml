@@ -50,7 +50,7 @@
       <plugin>      	
         <groupId>com.reucon.maven.plugins</groupId>
         <artifactId>maven-openfire-plugin</artifactId>
-        <version>1.0.2-SNAPSHOT</version>
+        <version>1.0.2-r1415</version>
         <extensions>true</extensions>        
       </plugin>
       <plugin>
